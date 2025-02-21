@@ -1,0 +1,9 @@
+1. Memory:4KB(4096 bytes) RAM
+2. Display: 64 x 32 monochrome
+3. A program counter(PC) - points at the current instruction in memory
+4. One 16-bit index register (“I”) - points at locations in memory
+5. A stack for 16-bit addresses - used to call subroutines/functions
+6. An 8-bit delay timer - decremented at a rate of 60 Hz until it reaches 0
+7. An 8-bit sound timer - same as delay timer but gives off a beeping sound as long as it’s not 0
+16. 8-bit general-purpose variable registers numbered 0 through F hexadecimal called V0 through VF
+    a. VF is also used as a flag register; many instructions will set it to either 1 or 0 based on some rule, for example using it as a carry flag

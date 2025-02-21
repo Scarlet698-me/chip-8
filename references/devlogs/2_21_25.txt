@@ -1,0 +1,6 @@
+First Day of Project, Yipee!!!
+Today has mostly been research/banging my head against the wall trying to figure out how to start this thing as this is the first emulator/interpreter ive ever tried to make.
+I filled out the spec sheet and nibble dictionary files in this directory also for quick reference when coding, tho i doubt that will be much interest for those reading this. I also declared the variables and arrays i will need for the physical specs of the project, such as the memory and program counter.
+I learned a few things today, mainly how most emulators work off of a youtube video and what a register and a stack is.
+
+not much is shown on the actual repo today due to most of my time being spent just trying to figure out what to do, but tommorrow i hope for much much more progress!!!
